@@ -1,1 +1,3 @@
-# first folder in github
+# HANDWRITTEN-DIGIT-RECOGNITION MODEL
+
+USES CNN MODEL
